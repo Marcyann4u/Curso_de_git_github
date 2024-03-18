@@ -11,6 +11,8 @@
 |-------|---------|
 | Comandos iniciais e navegação no cmd | [link](Resumos/aula_1.md) |
 | Restaurando e desfazendo commits | [link](Resumos/aula_2.md) |
+| Criando Branchs | [link](Resumos/aula_3.md) |
+| Comandos úteis no dia a dia | [link](Resumos/aula_4.md) |
 
 ```
 git init

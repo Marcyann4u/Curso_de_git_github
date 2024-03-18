@@ -1,7 +1,5 @@
 # Aula 3
 
-
-
 Criar nova branch
 
 ```
