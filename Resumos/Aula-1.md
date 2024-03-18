@@ -22,10 +22,20 @@ Sair de uma pasta
 cd ..
 ```
 
-Verificar arquivos pastas do diretório  selecionado
+Verificar arquivos pastas do diretório selecionado
 
 ```
 dir
+```
+
+Criar novo arquivo
+```
+echo nome_arquivo.txt
+```
+
+Mover arquivos
+```
+mv nome_arquivo.txt nome_destino
 ```
 
 Limpar o terminal
