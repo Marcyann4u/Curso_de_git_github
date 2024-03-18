@@ -1,4 +1,4 @@
-# git-github
+<!-- # git-github -->
 
 ## 📃 Documentação
 
@@ -9,7 +9,7 @@
 
 | Aulas | Resumos |
 |-------|---------|
-| Gravando Alterações no Repositório Local | [Aula]() |
+| Comandos iniciais e navegação no cmd | [link](Resumos/Aula-1.md) |
 
 ```
 git init
