@@ -45,6 +45,11 @@ Tornar pasta local em repositório do github
 git init
 ```
 
+Conectar repositório local com o remoto
+```
+git remote add origin url_do_repositório
+```
+
 Ver status/mudanças que ocorreram no repositório
 ```
 git status
