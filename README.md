@@ -9,7 +9,8 @@
 
 | Aulas | Resumos |
 |-------|---------|
-| Comandos iniciais e navegação no cmd | [link](Resumos/Aula-1.md) |
+| Comandos iniciais e navegação no cmd | [link](Resumos/aula-1.md) |
+| Restaurando e desfazendo commits | [link](Resumos/aula-2.md) |
 
 ```
 git init
