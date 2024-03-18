@@ -1,11 +1,6 @@
 # 📖 Aula 1 
 
----
-
 ### Comandos básicos do terminal 
-
-
-##### Navegação entre as pastas locais
 
 Criar uma nova pasta
 ```
@@ -43,7 +38,7 @@ Limpar o terminal
 ctrl + l
 ```
 
-#### Comandos básicos do Git
+### Comandos básicos do Git
 
 Tornar pasta local em repositório do github
 ```
